@@ -1,5 +1,5 @@
 # CSMODEL
-
+[Google Doc w/ datasets links](https://docs.google.com/document/d/1D4OyI9Ou_mfTNbao3RSq2nQedImos7cplazU8s-5ph4/edit?usp=sharing)
 ## Git LFS
 For file dataset storage please install [Git LFS](https://git-lfs.com/) by opening a terminal within the repo folder and typing the following:    
 *Mac via homebrew*     
